@@ -1,0 +1,40 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/darker_gray">
+
+    <TextView
+        android:text="Guest List"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:background="#1093AF"/>
+
+    <TextView
+        android:text="Kunal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp" 
+        android:textStyle="italic"
+        android:background="#7FDF6B"/>
+    
+    <TextView
+        android:text="Utkarsh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:background="#7FDF6B"/>
+    
+    <TextView
+        android:text="Akanksha"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        android:background="#7FDF6B"/>
+
+</LinearLayout>
